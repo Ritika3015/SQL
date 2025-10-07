@@ -1,4 +1,5 @@
-D:\ritik\Pictures\Untitled.png
+![Uploading image.png…]()
+
 
 # SQL Assignment ✒️
 
