@@ -1,5 +1,6 @@
+<img width="1200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e5237f4d-811d-42a7-9c30-866a702d9a86" />
+
 # SQL Assignment ✒️
-<img width="180" height="180" alt="image" src="https://github.com/user-attachments/assets/63aa4613-774b-4cf0-86bc-50bb8314effb" />
 
 ### 📝Overview
 This repository contains my **SQL assignment**, focused on **data querying, manipulation, and analysis** using SQL.  
