@@ -4,7 +4,6 @@
 This repository contains my **SQL assignment**, focused on **data querying, manipulation, and analysis** using SQL.  
 Through this project, I learned how to extract meaningful insights from databases efficiently and effectively.  
 
----
 
 ### 🛠 Skills & Techniques Learned
 
