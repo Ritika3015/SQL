@@ -1,4 +1,4 @@
-<img width="1200" height="1800" alt="image" src="https://github.com/user-attachments/assets/e5237f4d-811d-42a7-9c30-866a702d9a86" />
+D:\ritik\Pictures\Untitled.png
 
 # SQL Assignment ✒️
 
