@@ -1,4 +1,4 @@
-<img align="center" alt="coding" width="600" src="https://github.com/user-attachments/assets/07ce4e0f-9689-47f0-847d-b43a6f851ab9" />
+<img align="center" alt="coding" src="https://github.com/user-attachments/assets/07ce4e0f-9689-47f0-847d-b43a6f851ab9" />
 
 
 # SQL Assignment ✒️
