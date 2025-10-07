@@ -1,4 +1,4 @@
-# SQL Data Analysis Assignment ✒️
+# SQL Assignment ✒️
 
 ### 📝Overview
 This repository contains my **SQL assignment**, focused on **data querying, manipulation, and analysis** using SQL.  
