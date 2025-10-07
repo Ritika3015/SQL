@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+<img align="center" alt="coding" width="400" src="https://github.com/user-attachments/assets/07ce4e0f-9689-47f0-847d-b43a6f851ab9" />">
+
 
 # SQL Assignment ✒️
 
